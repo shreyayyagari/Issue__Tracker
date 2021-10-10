@@ -1,0 +1,30 @@
+.section1 {
+  padding-top: 20px;
+}
+
+.landingtitle {
+  margin-top: 180px;
+
+  font-size: 70px;
+}
+.Landingimg {
+  width: 720px;
+}
+.navlinkstyl {
+  font-size: 25px;
+  color: black !important;
+}
+.navlinkstyl:hover {
+  background-color: #f7a730 !important;
+}
+.buttonstyl {
+  margin-left: 70px;
+}
+.buttonland {
+  font-weight: 600;
+  color: black !important;
+}
+a {
+  text-decoration: none !important;
+  color: black;
+}

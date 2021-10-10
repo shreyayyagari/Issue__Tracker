@@ -1,0 +1,11 @@
+.navlinkstyl {
+  font-size: 25px;
+  color: black !important;
+}
+.navlinkstyl:hover {
+  background-color: #f7a730 !important;
+}
+.navlinkstyl1 {
+  font-size: 25px;
+  color: black !important;
+}
