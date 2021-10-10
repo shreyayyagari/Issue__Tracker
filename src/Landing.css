@@ -10,13 +10,7 @@
 .Landingimg {
   width: 720px;
 }
-.navlinkstyl {
-  font-size: 25px;
-  color: black !important;
-}
-.navlinkstyl:hover {
-  background-color: #f7a730 !important;
-}
+
 .buttonstyl {
   margin-left: 70px;
 }

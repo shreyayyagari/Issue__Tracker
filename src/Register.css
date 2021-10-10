@@ -1,3 +1,10 @@
-a {
-  text-decoration: none !important;
+.registerKeliye {
+  margin-left: 30%;
+  margin-top: 0.5%;
+}
+.registerButton {
+  width: 180px;
+  height: 40px;
+  font-weight: 700;
+  font-size: larger;
 }

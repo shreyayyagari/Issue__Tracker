@@ -1,0 +1,12 @@
+.cardforlogin {
+  width: 25rem;
+  height: 25rem;
+}
+.orgLogin {
+  margin-top: 7%;
+  margin-left: 35%;
+}
+.loginButton {
+  width: 130px;
+  font-weight: 600;
+}
