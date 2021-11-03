@@ -11,7 +11,7 @@ function Header() {
           <Navbar expand="lg">
   <Container>
       <Link to='/'>
-  <Navbar.Brand className="navlinkstyl1">TRACK IT</Navbar.Brand>
+  <Navbar.Brand className="navlinkstyl1">IzuTracker</Navbar.Brand>
   </Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">

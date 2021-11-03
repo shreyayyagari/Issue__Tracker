@@ -10,13 +10,13 @@ function Landing() {
             <div className=" container section1">
                 <div className="row">
            <div className="col-lg-5 col-md-5 col-sm-12 col-12">
-            <h1 className="landingtitle">TRACK IT</h1>
+            <h1 className="landingtitle">IzuTracker</h1>
             <div className="buttonstyl">
             <Button className="buttonland" variant="warning"><Link to="/Register">REGISTER NOW</Link></Button>
             </div>
             </div>
             <div className="col-lg-7 col-md-7 col-sm-12 col-12">
-        <img className="Landingimg" src= {Pic} />
+        <img className="Landingimg" src= {Pic} alt="Cartoon representation of event tracking"/>
         </div>
         </div>
            </div> 

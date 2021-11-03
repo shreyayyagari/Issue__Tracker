@@ -1,0 +1,33 @@
+.side-menu {
+  position: fixed;
+  background-color: #f7a730;
+  width: 300px;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 30px 20px;
+}
+
+.titlee p {
+  font-size: 23px;
+  font-weight: bold;
+}
+.toggleside {
+  font-size: 24px;
+  position: absolute;
+  right: 10px;
+  top: 4%;
+  font-weight: bold;
+}
+.divider {
+  width: 100%;
+  height: 1px;
+  border-radius: 1px;
+  background-color: white;
+}
+.navlinks {
+  padding-top: 50%;
+}
+.subnavlink {
+  color: white;
+  font-size: 18px;
+}

@@ -11,6 +11,8 @@ function Register() {
     return (
         <div className="registerKeliye">
             <Card border="warning" style={{ width: '34rem' }}>
+            <Card.Header style={{textAlign: 'center', backgroundColor: '#f5a81a', fontSize: '20px'}}><Link to="/">IzuTracker</Link></Card.Header>
+  
   <Card.Body>
     <Card.Title style={{textAlign: 'center', fontSize: '40px',fontWeight: '600'}}>REGISTER</Card.Title>
     <Form>
@@ -70,7 +72,7 @@ function Register() {
   </Form.Group>
   <div style={{textAlign: 'center'}}>
   <Button className="registerButton" variant="warning" type="submit">
-    REGISTER
+  <Link to="./Dashboard">REGISTER</Link>
   </Button>
   </div>
 </Form>

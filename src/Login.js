@@ -9,6 +9,7 @@ function Login() {
     return (
         <div className="orgLogin">
             <Card className="cardforlogin" border="warning">
+              <Card.Header style={{textAlign: 'center', backgroundColor: '#f5a81a', fontSize: '20px'}}><Link to="/">IzuTracker</Link></Card.Header>
   <Card.Body>
     <Card.Title style={{textAlign: 'center', fontSize: '35px',fontWeight: '700'}}>LOGIN</Card.Title>
     <Form>
@@ -26,7 +27,7 @@ function Login() {
   </Form.Group>
   <div style={{textAlign: 'center', marginTop: '60px'}}>
   <Button className="loginButton" variant="warning" type="submit">
-    LOGIN
+    <Link to ="/Dashboard">LOGIN</Link>
   </Button>
   </div>
 </Form>
